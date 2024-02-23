@@ -1,6 +1,6 @@
 // to add typing animation with help of javascript//
 
-var messageArray = ["Frontened Developer .","YouTuber",];
+var messageArray = ["Frontend Developer .","YouTuber",];
 var textPosition = 1;
 var speed = 100;
 
