@@ -1,8 +1,9 @@
 // to add typing animation with help of javascript//
+// for animated protfolio website
 
 var messageArray = ["Frontend Developer .","YouTuber",];
 var textPosition = 1;
-var speed = 100;
+var speed = 100; 
 
 typewriter = () => {
   document.querySelector("#multipleStrings").
